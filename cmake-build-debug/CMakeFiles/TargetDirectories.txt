@@ -1,0 +1,3 @@
+D:/posixThreads/cmake-build-debug/CMakeFiles/posixThreads.dir
+D:/posixThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/posixThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
